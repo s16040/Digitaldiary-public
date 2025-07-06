@@ -4,7 +4,7 @@ build/
 .externalNativeBuild/
 .cxx/
 local.properties
-gradle.properties
+
 
 # IntelliJ / Android Studio
 .idea/
