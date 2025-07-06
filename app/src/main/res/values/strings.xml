@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DigitalDiary</string>
+    <string name="welcome_message">Witaj w Mojej Aplikacji!</string>
+    <string name="settings">Ustawienia</string>
+    <string name="about">O Aplikacji</string>
+    <string name="privacy_policy">Polityka Prywatności</string>
+    <string name="terms_of_service">Warunki Usługi</string>
+    <string name="contact_us">Skontaktuj się z Nami</string>
+    <string name="location_permission_required">Wymagane uprawnienia lokalizacji</string>
+    <string name="camera_permission_required">Wymagane uprawnienia kamery</string>
+    <string name="audio_permission_required">Wymagane uprawnienia audio</string>
+    <string name="background_location_permission_required">Wymagane uprawnienia lokalizacji w tle</string>
+    <string name="notification_permission_required">Wymagane uprawnienia powiadomień</string>
+    <string name="location_enabled">Lokalizacja jest włączona</string>
+    <string name="location_disabled">Lokalizacja jest wyłączona</string>
+    <string name="camera_access_granted">Dostęp do kamery przyznany</string>
+    <string name="camera_access_denied">Dostęp do kamery odrzucony</string>
+    <string name="audio_access_granted">Dostęp do audio przyznany</string>
+    <string name="audio_access_denied">Dostęp do audio odrzucony</string>
+    <string name="background_location_access_granted">Dostęp do lokalizacji w tle przyznany</string>
+    <string name="background_location_access_denied">Dostęp do lokalizacji w tle odrzucony</string>
+    <string name="notification_access_granted">Dostęp do powiadomień przyznany</string>
+    <string name="notification_access_denied">Dostęp do powiadomień odrzucony</string>
+    <string name="geofence_entered">Wejście do strefy geofencing</string>
+    <string name="geofence_exited">Wyjście ze strefy geofencing</string>
+    <string name="geofence_error">Błąd geofencing</string>
+    <string name="geofence_not_supported">Geofencing nie jest obsługiwane na tym urządzeniu</string>
+    <string name="geofence_added">Strefa geofencing dodana</string>
+    <string name="geofence_removed">Strefa geofencing usunięta</string>
+    <string name="geofence_add_error">Błąd podczas dodawania strefy geofencing</string>
+    <string name="geofence_remove_error">Błąd podczas usuwania strefy geofencing</string>
+    <string name="geofence_list_empty">Lista stref geofencing jest pusta</string>
+    <string name="geofence_list_error">Błąd podczas pobierania listy stref geofencing</string>
+    <string name="geofence_not_found">Strefa geofencing nie znaleziona</string>
+    <string name="geofence_update_success">Strefa geofencing zaktualizowana pomyślnie</string>
+    <string name="google_maps_api_key">AIzaSyBFvz9CmLfWdl9ftYXmbzssScvq5JTpteE</string>
+</resources>

@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Systemowe
+.DS_Store
+Thumbs.db
+
+# Zewnętrzne pliki
+captures/
+*.log
+*.keystore
+*.jks
+*.apk
+*.zip
+*.jar
+
+# Ignoruj też wszystko z katalogu `.gradle/caches` (tu były te długie błędy)
+.gradle/caches/
+
+# oraz moje pierdoly
+/DigitalDiary10_najwazniejszy_kod.txt
+/pr.Andr.3.istotne.drzewo_pliki_foldery_projAndroid3.py
+/clean.bat
